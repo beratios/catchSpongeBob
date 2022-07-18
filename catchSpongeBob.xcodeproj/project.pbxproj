@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		CA345BE5286C5046001A4FB4 /* welcomePage.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA345BE4286C5046001A4FB4 /* welcomePage.swift */; };
 		CA89F821286611DB00B6CD25 /* catchSpongeBobApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA89F820286611DB00B6CD25 /* catchSpongeBobApp.swift */; };
 		CA89F823286611DB00B6CD25 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA89F822286611DB00B6CD25 /* ContentView.swift */; };
 		CA89F825286611DD00B6CD25 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CA89F824286611DD00B6CD25 /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		CA345BE4286C5046001A4FB4 /* welcomePage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = welcomePage.swift; sourceTree = "<group>"; };
 		CA89F81D286611DB00B6CD25 /* catchSpongeBob.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = catchSpongeBob.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CA89F820286611DB00B6CD25 /* catchSpongeBobApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = catchSpongeBobApp.swift; sourceTree = "<group>"; };
 		CA89F822286611DB00B6CD25 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -53,6 +55,7 @@
 			children = (
 				CA89F820286611DB00B6CD25 /* catchSpongeBobApp.swift */,
 				CA89F822286611DB00B6CD25 /* ContentView.swift */,
+				CA345BE4286C5046001A4FB4 /* welcomePage.swift */,
 				CA89F824286611DD00B6CD25 /* Assets.xcassets */,
 				CA89F826286611DD00B6CD25 /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CA89F823286611DB00B6CD25 /* ContentView.swift in Sources */,
+				CA345BE5286C5046001A4FB4 /* welcomePage.swift in Sources */,
 				CA89F821286611DB00B6CD25 /* catchSpongeBobApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

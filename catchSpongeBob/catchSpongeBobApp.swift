@@ -11,7 +11,7 @@ import SwiftUI
 struct catchSpongeBobApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            welcomePage()
         }
     }
 }
